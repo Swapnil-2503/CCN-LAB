@@ -30,5 +30,5 @@ If you would like to contribute to this repository, please open a pull request a
 
 ## License
 
-This project is licensed under the [LICENSE for free to use](LICENSE) license.
+This project is licensed under the [LICENSE for free to use](License.md) license.
 
